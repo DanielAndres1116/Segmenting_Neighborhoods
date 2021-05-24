@@ -39,6 +39,27 @@ Finally, the library of sklearn was used to do KMeans as our model of clustering
 
 ## Results And Conclusions
 
+I am going to do an analysis from more recurrent venues on the clusters. 
+
+Cluster 0 is the one that contained the most elements, here are involved the places with many cafes and restaurants. If you want places to eat or drink coffee, these are the sectors.
+
+Cluster 1 features music sites, children's gardens, wings joint and escape rooms. These seems to be places to have a good time and entertain yourself with friends.
+
+Cluster 2 has PUB's, Health food stores, trails, Discount Stores and Distribution Centers. If you want to do good-priced shopping as well as enjoy a good national beer, these are the sectors you should visit.
+
+Cluster 3 has Tennis Court, restaurants and trails. If you would like go and spend time doing exercise, these could be sectors to take advantage
+
+Clsuter 4 has Bus Lines, parks and playgrounds. If you have children in your family, these are places where you could take them. 
+
+Cluster 5 has convenience stores, event space, Diner and Parks too. 
+
+## Things to improve
+
+- For some strange reason, when testing program execution multiple times and using the elbow method, the optimal number of clusters is not always evident, sometimes the result is one number and sometimes other. But it always hovers between the 4 and 6 clusters. 
+- I would have liked to have grouped everything that has to do with airports in a separate cluster, but it didn't. I have to find out why this isn't happening.
+- Try other grouping algorithms such as DBSCAN or hierarchical algorithms to test different types of results, you may get more interesting data.
+- Take much more data from other places to increase the scope of the model.
+
 
 
 
