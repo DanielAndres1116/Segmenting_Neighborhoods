@@ -57,7 +57,7 @@ Cluster 5 has convenience stores, event space, Diner and Parks too.
 
 - For some strange reason, when testing program execution multiple times and using the elbow method, the optimal number of clusters is not always evident, sometimes the result is one number and sometimes other. But it always hovers between the 4 and 6 clusters. 
 - I would have liked to have grouped everything that has to do with airports in a separate cluster, but it didn't. I have to find out why this isn't happening.
-- Try other grouping algorithms such as DBSCAN or hierarchical algorithms to test different types of results, you may get more interesting data.
+- Try other Clustering Models as Hierarchical Clustering to test different types of results, you may get more interesting data.
 - Take much more data from other places to increase the scope of the model.
 
 
