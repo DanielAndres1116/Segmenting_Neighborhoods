@@ -1,4 +1,4 @@
-# Segmenting Neighborhoods by features of venues inside it
+# Segmenting Neighborhoods by Characteristics of Venues
 
 This link is to see better the Notebook: https://nbviewer.jupyter.org/github/DanielAndres1116/Segmenting_Neighborhoods/blob/main/Clustering-Venues.ipynb
 The previous link for see the maps that we could not see on the principal file ipynb.
