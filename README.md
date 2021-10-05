@@ -39,6 +39,10 @@ Finally, the library of sklearn was used to do KMeans as our model of clustering
 
 ## Results And Conclusions
 
+This is a small sample of the most important venues around the analyzed place. This allow us make an analyzis of what kind of venues there are in certain neighbors.
+
+![imagen](https://user-images.githubusercontent.com/43154438/136068011-6375876d-c73d-4f37-b3c8-73903910d41f.png)
+
 I am going to do an analysis from more recurrent venues on the clusters. 
 
 Cluster 0 is the one that contained the most elements, here are involved the places with many cafes and restaurants. If you want places to eat or drink coffee, these are the sectors.
@@ -52,6 +56,10 @@ Cluster 3 has Tennis Court, restaurants and trails. If you would like go and spe
 Clsuter 4 has Bus Lines, parks and playgrounds. If you have children in your family, these are places where you could take them. 
 
 Cluster 5 has convenience stores, event space, Diner and Parks too. 
+
+This is a map where I show the assigned clusters.
+
+![imagen](https://user-images.githubusercontent.com/43154438/136068172-56f12f76-490d-4dd8-b21f-d60882d4e073.png)
 
 ## Things to improve
 
