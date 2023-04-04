@@ -63,3 +63,27 @@ The code is written in python and uses several libraries such as BeautifulSoup, 
 4.	The geopy library is then used to retrieve the latitude and longitude values of Toronto.
 5.	Finally, the folium library is used to visualize the data on a map of Toronto, where each neighborhood is marked with its latitude and longitude.
 
+## 1.7. Conclusions and Result Analysis
+
+This is a small sample of the most important venues around the analyzed place. This allow us to make an analyzis of what kind of venues are in certain neighbors:
+
+![image](https://user-images.githubusercontent.com/43154438/229926478-6780a3ce-0975-4160-8949-41c4325e347d.png)
+
+Figure 1: a sample of the most important venues around the analyzed place
+
+I am going to do an analysis of more recurrent venues on the calculated clusters.
+
+•	Cluster 0 is the one that contained the most elements, here are involved the places with many cafes and restaurants. If you want places to eat or drink coffee, these are the sectors.
+•	Cluster 1 features music sites, children’s gardens, wings joint and escape rooms. These seems to be places to have a good time and entertain yourself with friends.
+•	Cluster 2 has PUB’s, Health food stores, trails, Discount Stores and Distribution Centers. If you want to do good-priced shopping as well as enjoy a good national beer, these are the sectors you should visit.
+•	Cluster 3 has Tennis Court, restaurants and trails. If you would like go and spend time doing exercise, these could be sectors to take advantage
+•	Cluster 4 has Bus Lines, parks and playgrounds. If you have children in your family, these are places where you could take them.
+•	Cluster 5 has convenience stores, event space, Diner and Parks too.
+
+This is a map where I show the assigned clusters.
+
+![image](https://user-images.githubusercontent.com/43154438/229926619-e0b94f60-3502-462e-8a2f-1ea260f7758c.png)
+
+Figure 2: map of the assigned clusters to each neighborhood
+
+There are several things that I would like to improve in this project. Those things are indicated in the last section of this program in my Github repository that you can check in the previous provided link.
